@@ -1,0 +1,48 @@
+*{
+    margin:0
+}
+#top{
+    height: 1.8rem;
+    width: 95%;
+   display: flex;
+   margin: 0.5rem auto;
+   line-height: 1.6rem;
+}
+#top #inp{
+    
+    background: #f2f2f2;
+    width:85%;
+    border-radius: 0.2rem;
+}
+#top #inp i{
+    margin-left: 0.5rem;
+}
+#top #inp input{
+    height: 70%;
+    width: 88%;
+    margin-left: 0.5rem;
+    outline:none
+}
+#top .icon-saomiao{
+    font-size: 1.2rem;
+    margin-top: 0.2rem;
+    margin-left: 1.5rem;
+}
+#top input{
+    background: #f2f2f2;
+    border: none;
+}
+
+.i_none{
+    display: none;
+}
+.i_show{
+    display: block;
+}
+.but{
+    display:inline-block;
+    background: #f2f2f2;
+    border: none;
+    outline:none
+
+}

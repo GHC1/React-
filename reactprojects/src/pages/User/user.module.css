@@ -1,0 +1,165 @@
+/* 一 */
+.user{
+    background: #f4f4f4;
+}
+.onediv{
+    height: 5rem;
+    display:flex;
+    justify-content:space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background: #ffffff;
+    /* box-shadow: 0px 15px 20px -20px #5E5E5E; */
+}
+.onediv nav {
+    display: flex;
+    margin-left: 1rem;
+}
+.onediv nav div{
+    height: 100%;
+    margin-top: 1.5rem;
+    margin-left: 0.5rem;
+}
+.onediv img{
+    /* display: inline-block; */
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+.onediv span{
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+    color: #999999;
+
+}
+.onediv nav div .p2{
+    font-size: 0.5rem;
+    color: #999999;
+    margin-top: 0.5rem;
+}
+.logou{
+    width: 4rem;
+    height: 1.7rem;
+    background: red;
+    border: none;
+    border-radius: 0.3rem;
+    color: #ffffff;
+}
+
+
+
+/* 二 */
+
+.oneul{
+    height: 5rem;
+    /* border: red 1px solid; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: -3rem;
+    /* box-shadow: 50px 20px 20px -20px #5E5E5E; */
+    box-shadow: 0px -6px 30px -20px #5E5E5E;
+    background: #ffffff;
+}
+.oneul li{
+    float: left;
+    list-style: none;
+    margin-top: 1.3rem;
+
+}
+.oneul li p{
+    text-align: center;
+    font-size: 0.8rem;
+}
+.oneul li .ulp2{
+    color: #999999;
+}
+
+
+
+/* 三 */
+.user .divth{
+    height: 10rem;
+    /* border: 1px red solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    box-shadow: 0px -6px 30px -20px #5E5E5E;
+    background: #ffffff;
+
+}
+.user .divth .navone{
+    display: flex;
+    justify-content:space-around
+}
+.user .divth .navone p{
+    display: flex;
+    flex-direction: column;
+}
+.user .divth .navone p i{
+    text-align: center;
+    font-size: 1.3rem;
+}
+.user .divth .navone p span{
+    font-size: 0.7rem;
+    margin-top: 0.3rem;
+}
+
+
+/* 四 */
+
+.fourdiv{
+    margin-top: 0.7rem;
+    background: #ffffff;
+    height: 5rem;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.fourdiv p{
+    display: flex;
+    flex-direction: column;
+}
+.fourdiv p i{
+    text-align: center;
+}
+
+
+/* 五 */
+
+.divfive{
+    height: 5rem;
+    /* border: solid 1px; */
+    background: #ffffff;
+    margin-top: 0.7rem;
+}
+.divfive p{
+    height: 50%;
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+.divfive span{
+    margin-left: 0.5rem;
+}
+
+/* 六 */
+
+
+.divsix{
+    margin-top: 0.7rem;
+    height: 5rem;
+    /* border: solid 1px; */
+    background: #ffffff;
+}
+.divsix p{
+    height: 50%;
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+.divsix span{
+    margin-left: 0.5rem;
+}

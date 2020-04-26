@@ -1,0 +1,29 @@
+*{
+    margin:0
+}
+
+/* 导航栏 */
+.nav{
+    overflow: hidden;
+    margin-top: 1rem;
+    margin-left:-2.5rem;
+    display: flex;
+    justify-content:space-around;
+}
+.nav li{
+    float: left;
+    list-style: none;
+    margin-left: 0.5rem;
+    overflow: hidden;
+    color: #8a8a8a;
+    
+}
+.nav .one{
+    margin-left: 0rem;
+    
+}
+.active li{
+    color: red;
+    font-size: 1.2rem;
+    /* background: red; */
+}

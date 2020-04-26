@@ -1,0 +1,27 @@
+.Login nav{
+    border: 1px solid red;
+    width:80%;
+    margin:0 auto;
+    margin-top: 1rem;
+    background: #ffffff;
+
+}
+
+.Login div{
+    text-align: center;
+}
+.Login div .spanto{
+    margin-left: 1rem;
+}
+.activet{
+    font-size: 1.5rem;
+    color: red;
+}
+.divone{
+    margin-top: 7rem;
+}
+.msg{
+    text-align: center;
+    color: red;
+    font-size: 0.6rem;
+}
